@@ -5,9 +5,9 @@ A glassmorphic sound design extension (CEP) built for **Adobe Premiere Pro** and
 ---
 
 <img width="816" height="608" alt="With Menu" src="https://github.com/user-attachments/assets/f6616c1a-3051-4576-989e-34c8894f7fde" />
+
 <img width="816" height="611" alt="without menu" src="https://github.com/user-attachments/assets/6155516b-afc6-4596-ab8a-492137b73946" />
 
----
 
 ## ✨ Features
 - **⚡ Instant Playhead Insertion:** Double-click any sound card or hit **"Add to Timeline"** to immediately insert the audio clip at your Current Time Indicator (CTI / Playhead) on an available audio track.
